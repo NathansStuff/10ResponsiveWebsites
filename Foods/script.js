@@ -1,3 +1,4 @@
+// Section 1
 const icons = document.querySelectorAll('.section-1-icons i')
 let i = 1
 setInterval(() => {
@@ -11,3 +12,5 @@ setInterval(() => {
         icon.nextElementSibling.classList.add('active')
     }
 },4000)
+// End of Section 1
+
